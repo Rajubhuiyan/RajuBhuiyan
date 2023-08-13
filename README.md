@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello there! I'm Raju Ahmed Bhuiyan, a MERN (MongoDB, Express.js, React.js, Node.js) developer with 1.5 years of professional experience.
+Hello there! I'm Raju Ahmed Bhuiyan, a MERN (MongoDB, Express.js, React.js, Node.js) developer with 2 years of professional experience.
 I have a passion for crafting intuitive and efficient web applications.
 My skills include HTML, CSS, Bootstrap, Material UI, React, Redux, Express.js (basic) and MongoDB (basic).
 
